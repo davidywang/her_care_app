@@ -1,0 +1,2 @@
+# her_care_app
+Her Care serves as a platform to gather information about women's health and taboo topics and store it in a single place that is easy to access. With links to different pages about important parts of women's health, Her Care provides women with a simple way to learn about how to take care of themselves. Her Care also includes an emergency feature that can alert close friends of a person's location if they ever feel like they're in an unsafe situation.
