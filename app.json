@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Women's Health App",
-    "description": "The best app for women's health.",
-    "slug": "womenshealthapp",
+    "name": "womens-health-app",
+    "description": "No description",
+    "slug": "womens-health-app",
     "privacy": "public",
     "sdkVersion": "21.0.0",
     "version": "1.0.0",
